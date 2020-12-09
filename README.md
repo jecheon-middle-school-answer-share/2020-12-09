@@ -21,8 +21,11 @@
 ### 바로가기
 [체육 바로가기](https://rang.edunet.net/class/G000363883/hmwkppList.do?hmwkSeq=722619&hmwkTypeCd=ALL)
 ### 문제
-### 정답
+```
+2개 또는 3개의 저글링으로 연습 하는 모습을 사진 또는 10초 이내의 영상을 찍어 제출하세요.
+```
 ### 참고 자료
+[![Youtube](http://img.youtube.com/vi/jJ6CZwh-cDU/0.jpg)](https://www.youtube.com/embed/jJ6CZwh-cDU "Youtube")
 
 ## 2교시 - 과학
 ### 바로가기
