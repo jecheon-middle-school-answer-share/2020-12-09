@@ -96,8 +96,8 @@ __핵심역량 더 키우기2__
    다. 사실을 왜곡하지 않는지
 2. 2개 이상의 정보를 한개의 정보로 뭉치는 것
 3. 다른 사람의 정보를 사용하는 것이라서
-4. 
-5. 
+4. (알아서)
+5. (알아서)
 ### 참고 자료
 [![Youtube](http://img.youtube.com/vi/a3XmboC38Zs/0.jpg)](https://www.youtube.com/embed/a3XmboC38Zs "Youtube")
 
