@@ -46,6 +46,7 @@ __핵심역량 더 키우기2__
 3. 초전도체
 4. O
 ### 참고 자료
+[![Youtube](http://img.youtube.com/vi/JZubttdUkfI/0.jpg)](https://www.youtube.com/embed/JZubttdUkfI "Youtube")
 
 ## 3교시 - 과학
 ### 바로가기
@@ -53,7 +54,21 @@ __핵심역량 더 키우기2__
 ### 문제
 [구글 폼 바로가기](https://forms.gle/Kq6NWLbERh9eYBn37)
 ### 정답
+1. 
+2. 
+
+__핵심역량 더 키우기1__
+1. 흑점
+2. 플레어
+3. CME
+
+__핵심역량 더 키우기2__
+1. X
+2. 
+3. O
+4. KVN
 ### 참고 자료
+[![Youtube](http://img.youtube.com/vi/ECPe7yRmkCU/0.jpg)](https://www.youtube.com/embed/ECPe7yRmkCU "Youtube")
 
 ## 4교시 - 국어
 ### 바로가기
