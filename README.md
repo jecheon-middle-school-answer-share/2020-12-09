@@ -17,9 +17,9 @@
 ### 바로가기
 [조회 바로가기](https://rang.edunet.net/class/G000364114/classNotifyView.do?pageNo=1&notifySequence=303066)
 
-## 1교시 - 과학
+## 1교시 - 체육
 ### 바로가기
-[과학 바로가기](https://rang.edunet.net/class/G000363883/hmwkppList.do?hmwkSeq=722619&hmwkTypeCd=ALL)
+[체육 바로가기](https://rang.edunet.net/class/G000363883/hmwkppList.do?hmwkSeq=722619&hmwkTypeCd=ALL)
 ### 문제
 ### 정답
 ### 참고 자료
@@ -32,9 +32,9 @@
 ### 정답
 ### 참고 자료
 
-## 3교시 - 체육
+## 3교시 - 과학
 ### 바로가기
-[체육 바로가기](https://rang.edunet.net/class/G000325054/hmwkppList.do?hmwkSeq=728481&hmwkTypeCd=ALL)
+[과학 바로가기](https://rang.edunet.net/class/G000325054/hmwkppList.do?hmwkSeq=728481&hmwkTypeCd=ALL)
 ### 문제
 [구글 폼 바로가기](https://forms.gle/Kq6NWLbERh9eYBn37)
 ### 정답
