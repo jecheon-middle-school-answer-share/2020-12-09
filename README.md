@@ -15,10 +15,7 @@
 
 ## 조회
 ### 바로가기
-정보 없음 (2020-12-15-16-30)
-<!--
-[조회 바로가기](https://rang.edunet.net/class/G000364114/classNotifyView.do?pageNo=1&notifySequence=303066)
--->
+[조회 바로가기](https://rang.edunet.net/class/G000364114/classNotifyView.do?pageNo=1&notifySequence=303670)
 
 ## 1교시 - 체육
 ### 바로가기
@@ -36,13 +33,10 @@
 [![Youtube](http://img.youtube.com/vi/oDK0ztggPnc/0.jpg)](https://www.youtube.com/embed/oDK0ztggPnc "Youtube")
 
 ## 2교시 - 과학
-정보 없음 (2020-12-15-16-30)
-<!--
 ### 바로가기
-[과학 바로가기](https://rang.edunet.net/class/G000325054/hmwkppList.do?hmwkSeq=000000&hmwkTypeCd=ALL)
+[과학 바로가기](https://rang.edunet.net/class/G000325054/hmwkppList.do?hmwkSeq=736630&hmwkTypeCd=ALL)
 ### 문제
-[구글 폼 바로가기](https://forms.gle/tFw951Y9mTNd7nBMA)
--->
+[구글 폼 바로가기](https://forms.gle/ajQGpvXFcdhW4VTk9)
 ### 정답
 1. 1
 2. 1
@@ -51,13 +45,10 @@
 5. 2
 
 ## 3교시 - 과학
-정보 없음 (2020-12-15-16-30)
-<!--
 ### 바로가기
-[과학 바로가기](https://rang.edunet.net/class/G000325054/hmwkppList.do?hmwkSeq=000000&hmwkTypeCd=ALL)
+[과학 바로가기](https://rang.edunet.net/class/G000325054/hmwkppList.do?hmwkSeq=736630&hmwkTypeCd=ALL)
 ### 문제
-[구글 폼 바로가기](https://forms.gle/tFw951Y9mTNd7nBMA)
--->
+[구글 폼 바로가기](https://forms.gle/EXfK88Wc4a9uDCSi6)
 ### 정답
 1. 5
 2. 3
